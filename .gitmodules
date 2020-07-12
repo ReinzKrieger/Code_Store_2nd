@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = C:/xampp/htdocsCode_store_2nd/backend/
+[submodule "frontend"]
+	path = frontend
+	url = C:/xampp/htdocsCode_store_2nd/frontend/
